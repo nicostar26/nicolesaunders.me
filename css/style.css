@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.nav{
+    width: 90%;
+    margin: auto;
+    display: flex;
+}
+
+.logo{
+    width: 50%;
+}
+
+.menu{
+    width: 50%;
+    text-align: right;
+    margin-top: 30px;
+}
+
+.menu a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+.logo img{
+    height: 75px;
+    width: auto;
+}
+
+.greetingtext{
+    width: 80%;
+    margin: auto;
+    height: 400px;
+    
+
+}
+.greetingtext h1{
+    font-size: 80px;
+    margin: 100px auto 50px;
+}
+
+.greetingtext h3{
+    font-size: 45px;
+    margin: 0px auto 100px 0px;
+}
+
