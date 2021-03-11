@@ -4,6 +4,12 @@
     font-family: 'Times New Roman', Times, serif;
 }
 
+body{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
 
 .nav{
     width: 90%;
